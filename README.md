@@ -1,2 +1,2 @@
 # Cat-Dog
-# Simple Cat Dog Identifier
+# Simple Cat-Dog Identifier
